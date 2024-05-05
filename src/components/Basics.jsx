@@ -12,7 +12,7 @@ const Basics = () => {
   return (
     <>
     <div className='text-5xl'>
-      This is main app component
+      This is main app component in react
     </div>
     <p style={styles}>hello {name} Age {10}</p>
     <ul>
